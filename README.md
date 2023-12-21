@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on auto-slon.ru
+- 🔭 I’m currently working on [auto-slon.ru](https://auto-slon.ru/)
 - 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on open-source project with lots of data visualization
 - 🤔 I’m looking for help with finding a first job as a frontend developer
